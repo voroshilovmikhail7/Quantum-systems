@@ -1,3 +1,6 @@
-Voroshilov Mikhail, 10-2, 6.12.2025 
-[solving_quantum_problem.ipynb](../../Downloads/solving_quantum_problem.ipynb)
+Voroshilov Mikhail, 10-2, 6.12.2025
+https://colab.research.google.com/drive/17kNJRuiYHigBhL2aG2BLfC1eviiIW6su?usp=sharing
 подобрал начальные стартовые значения w=1.545, t=0.455
+11/12/2025
+написал функцию Grid под свою задачу. Понятно, что надо использовать библиотеку scipy.optimize. 
+Поставил задачу - реализовать функцию, основанную на этой библиотеке, которая будет прогонять параметры потенциала, чтобы получить относительное приращения энергий при декформации ядра как можно больше. Сделал пару прогонов вручную - получил 100
