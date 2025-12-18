@@ -8,3 +8,4 @@ https://colab.research.google.com/drive/17kNJRuiYHigBhL2aG2BLfC1eviiIW6su?usp=sh
 подобрал параметры, чтобы выполнялись поставленные условия
 написал функции, считающие необходимый для дальнейшей работы коэффицент k. Как и полагалось, он получился довольно маленьким, чего мы и хотели.
 https://colab.research.google.com/drive/17kNJRuiYHigBhL2aG2BLfC1eviiIW6su?usp=sharing
+     
